@@ -466,6 +466,10 @@ h6 {
 
 }
 
+.riscado {
+  text-decoration: line-through;
+}
+
 
 /*--------------------------------------------------------------
 # Global Footer

@@ -1881,7 +1881,6 @@ section,
 .testimonials .testimonial-item .featured-img-wrapper {
   min-height: 400px;
   position: relative;
-  overflow: hidden;
   border-radius: 16px;
 }
 

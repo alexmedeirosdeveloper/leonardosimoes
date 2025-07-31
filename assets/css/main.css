@@ -851,19 +851,19 @@ section,
 
 @media (max-width: 1200px) {
   .hero .main-heading h1 {
-    font-size: 2rem;
+    font-size: 2.5rem;
   }
 }
 
 @media (max-width: 767px) {
   .hero .main-heading h1 {
-    font-size: 1rem;
+    font-size: 2rem;
   }
 }
 
 @media (max-width: 480px) {
   .hero .main-heading h1 {
-    font-size: 0.5rem;
+    font-size: 1.5rem;
   }
 }
 
